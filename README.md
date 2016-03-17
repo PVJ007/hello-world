@@ -1,2 +1,6 @@
 # hello-world
-2nd attempt repository
+
+Hi World
+
+1st time github editing
+second attempt at hello-world
